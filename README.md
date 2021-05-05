@@ -1,4 +1,4 @@
-<h1 align='center'><img src='./1992.jpg/></h1>
+<h1 align='center'><img src="./1992.jpg" alt="welcome-picture"></h1>
 
 <!--
 **stephen-leisy/stephen-leisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
