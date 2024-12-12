@@ -1,5 +1,3 @@
-<h1 align='center'><img src="./tweak6.jpg" alt="welcome-picture"></h1>
-
 <p align='center'>Hi there, I'm Stephen! I’m a full-stack software engineer, but front-end design-oriented work is my specialty. It's a bit of a ghost town over here because I've used a combo of private Github repos and GitLab for work the last few years, :( but hey, thanks for stopping by!</p>
 <!--
 **stephen-leisy/stephen-leisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
